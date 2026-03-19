@@ -2,7 +2,7 @@
 
 Extract text from images using Tesseract.js OCR, running entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/image-tools/image-to-text
+**Live Demo:** https://file-converter-free.com/en/image-tools/image-to-text-ocr-online
 
 ## How It Works
 
